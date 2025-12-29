@@ -53,7 +53,7 @@ Hệ thống được xây dựng dưới dạng ứng dụng web sử dụng Fl
 ## 5. Hướng dẫn chạy hệ thống
 
 ### Bước 1: Clone project
-git clone https://github.com/manh08-nhap-mon-cnpm/NHAPMON_CNPM_NHOM-11_QLHT_QUANCAFE.git
+
 ### Bước 2: Di chuyển vào thư mục web
 cd NHAPMON_CNPM_NHOM-11_QLHT_QUANCAFE/web
 ### Bước 3: Cài đặt thư viện cần thiết
