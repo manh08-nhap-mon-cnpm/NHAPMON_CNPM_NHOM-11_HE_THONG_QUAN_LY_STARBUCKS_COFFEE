@@ -55,14 +55,14 @@ Hệ thống được xây dựng dưới dạng ứng dụng web sử dụng Fl
 ### Bước 1: Clone project
 
 ### Bước 2: Di chuyển vào thư mục web
-cd NHAPMON_CNPM_NHOM-11_QLHT_QUANCAFE/web
+
 ### Bước 3: Cài đặt thư viện cần thiết
 pip install flask
 ### Bước 4: Chạy ứng dụng
 python app.py
 ### Bước 5: Truy cập hệ thống
 Mở trình duyệt và truy cập:
-http://127.0.0.1:5000/login
+
 ### Bước 6: Tài khoản đăng nhập mẫu
 #### Admin:
 Tên đăng nhập: admin
